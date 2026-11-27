@@ -1,0 +1,15 @@
+# Build output
+Debug/
+Release/
+
+# IDE temporary files
+.metadata/
+*.launch
+
+# Compiled files
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
